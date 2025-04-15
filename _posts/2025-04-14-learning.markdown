@@ -6,4 +6,29 @@ last_modified_at: 2025-04-14 14:00:00 +0300
 categories: jekyll update
 ---
 
-A
+## 科学的根拠に基づく最高の勉強法 / Maximizing Learning: The Best Evidence-Based Techniques
+
+The book introduces learning techniques that have been proven highly effective based on recent research. According to the book, the two most important methods for learning are:
+
+1. **Active recall**
+2. **Distributed learning**
+
+### Active Recall
+
+Active recall is a learning method where, after initially learning a new topic by reading or listening, you then try to recall and write about it without looking at any notes. This is much more effective than simply rereading, because the brain works harder when trying to retrieve information.
+
+Studies show that rereading can give a false sense of understanding, as it becomes easier to read without truly engaging with the material. Active recall avoids this trap. In fact, what I’m doing right now—writing about what I learned after reading the book—is a form of active recall.
+
+### Distributed Learning
+
+Distributed learning, also known as spaced repetition, is another powerful technique. Instead of reviewing a topic multiple times in a short period, you spread out your study sessions over time. For example, you might study something today, review it tomorrow, and then again after a few days.
+
+Research shows this method is significantly more effective than cramming. The ideal spacing between review sessions isn’t perfectly clear, but reviewing at least one day later has been shown to be beneficial.
+
+### Other Techniques
+
+The book also mentions a few other techniques, though they are not as crucial as the two above:
+
+- **Teach what you learn**: While doing active recall, try writing as if you’re explaining the topic to someone else.
+- **Ask questions**: Asking yourself questions like “Why is this the case?” helps deepen your understanding.
+- **Change your environment**: Studying in different locations can improve recall, as your brain may associate certain content with specific places.
