@@ -6,4 +6,45 @@ last_modified_at: 2025-04-14 14:00:00 +0300
 categories: jekyll update
 ---
 
-A
+## スタンフォード式 最高の睡眠 / The Stanford Method for Ultimate Sound Sleep
+
+One of the key ideas in this book is that **sleep works like a debt**:
+If you don’t get enough sleep, that missing rest accumulates as a “sleep debt,” which continues to grow unless you make up for it. On the other hand, if you’ve had enough rest and carry no debt, your body won’t crave more sleep than necessary — which is a good sign of healthy sleep balance.
+
+### Quality Over Quantity
+
+What matters most in sleep is not **how long** you sleep, but the **quality** of that sleep.
+
+Sleep consists of cycles of **non-REM** and **REM** stages. The **first non-REM stage** — about the first **90 minutes after you fall asleep** — is the deepest and most restorative. That makes these first 90 minutes absolutely critical for high-quality sleep.
+
+To maximize the quality of this period, the book highlights several practical tips:
+
+#### 1. Body Temperature Regulation
+
+Sleep is closely tied to **body temperature**, which can be divided into:
+
+- **Core body temperature**
+- **Skin temperature**
+
+Normally, your core body temperature is about 2°C higher than your skin. As you prepare to sleep, your core temperature drops and moves closer to your skin temperature — a key condition for entering deep sleep.
+
+One good way to drop the core body temperature is to take a **bath or sauna about 90 minutes before bed**. This raises your core temperature temporary, and afterward, your body works to cool down rapidly, promoting the natural temperature drop needed for sleep readiness.
+
+#### 2. Comfortable Room Temperature
+
+The ideal room temperature varies slightly from person to person, but keeping your sleeping environment **comfortable and slightly cool** is important for maintaining high sleep quality.
+
+#### 3. Monotonic Mental State
+
+The best brain condition before sleep is a **monotonic state** — when your mind is calm and not actively thinking.
+This is difficult to achieve but crucial for a smooth transition into deep sleep.
+
+### Waking Up Well
+
+Waking up properly is also key to a healthy sleep cycle. Two important factors are:
+
+- **Light exposure**: Sunlight (or bright light) signals your brain that it’s morning, helping reset your internal clock.
+- **Raising body temperature**: Activities like taking a **shower** can help increase your body temperature and signal to your body that it's time to be alert.
+
+
+By focusing on sleep quality, especially in the first 90 minutes, and understanding how body and brain states affect rest, this book offers science-based strategies to improve both how you sleep and how you wake.
