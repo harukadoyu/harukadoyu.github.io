@@ -101,3 +101,32 @@ For most of human history, people had to stay alert to survive. For example, eve
 In today’s world, the lions have been replaced by smartphones and social media. Our brains still treat them as something important that we must pay attention to. But unlike lions, smartphones are not a real threat. Our survival doesn't depend on them. However, because social media is designed to trigger dopamine—the brain’s reward chemical—they become addictive and constantly steal our attention.
 
 Smartphones greatly disturb our ability to concentrate. Many studies have shown that even the presence of a smartphone nearby can reduce performance. The closer the phone is, the worse students performed on tests. Even when phones were kept in bags, they still had a negative effect. The best way to focus while studying or working is to leave your smartphone in a different room.
+
+
+## 思考の整理学 / The Art of Thinking
+
+### Gliders vs. Pilots: Independent Thinking in Research
+
+In contemporary education, students are often taught to operate like gliders — following a predetermined path without the ability to change direction or exercise control. However, in research, it is essential to go beyond passive execution and instead learn to act as pilots — to navigate, make decisions, and take responsibility for the course of inquiry. This metaphor highlights a crucial distinction: effective researchers must not merely follow instructions but must cultivate the ability to think independently and critically.
+
+### Choosing Topics and Engaging with Literature
+
+The process of selecting a research topic should begin with a fundamental question: why? Understanding the underlying rationale for a topic is the foundation of meaningful research. Once this is established, it is necessary to examine existing literature to determine whether similar studies have been conducted and how your work might contribute to or challenge current knowledge.
+
+When writing a thesis, it is insufficient to focus solely on one’s own research or to selectively cite studies that support a given argument. A comprehensive and academically rigorous thesis engages with a wide range of perspectives, including studies that align with as well as those that contradict one’s findings. By thoughtfully integrating insights from multiple sources — supportive and critical alike — researchers can construct a more balanced, nuanced, and compelling scholarly contribution.
+
+### Serendipity, Creativity, and Parallel Thinking
+
+Serendipity — the occurrence of unexpected yet fortunate discoveries — has played a significant role in the advancement of science. A similar phenomenon can be observed in the process of thinking itself. Often, the most innovative research ideas emerge not during focused contemplation, but rather when the mind is engaged with unrelated topics. This suggests that creativity in research may benefit from a degree of cognitive flexibility and mental wandering.
+
+In this context, it can be advantageous to consider multiple, thematically related research topics simultaneously. When engaging deeply with one area, it is not uncommon for novel insights to arise that are more applicable to a different, though related, research question. Such cross-pollination of ideas can enrich the research process and lead to unexpected but valuable connections.
+
+### Learning, Forgetting, and the Power of Summarization
+
+While the importance of learning is widely recognized, the role of forgetting is equally essential — though perhaps less intuitive. In periods of high mental demand, the brain can become overwhelmed by the sheer volume of information being processed. Creating mental space for reflection is therefore critical, and the ability to discard or temporarily set aside unnecessary information is a key aspect of effective thinking.
+
+One useful strategy to support both learning and forgetting is summarization. Even when one believes they have a clear understanding of a topic, this knowledge may remain inaccessible or fragmented if it is not well organized. By actively summarizing and articulating one’s thoughts — whether through writing or discussion — it becomes possible to clarify, consolidate, and more effectively utilize existing knowledge. In this way, outputting one’s thinking is not only a form of expression, but also a powerful tool for cognitive refinement.
+
+### Avoiding Intellectual Inbreeding through Interdisciplinarity
+
+Intellectual inbreeding can also occur within scientific research, where ideas and methodologies become overly insular or self-referential. When research remains confined within a single discipline or theoretical framework, it may lack the diversity of perspectives needed to generate novel insights. History has shown that breakthroughs often emerge when scholars adopt a broader view — integrating knowledge, methods, and approaches from multiple disciplines. Interdisciplinary research, by bridging conceptual boundaries, fosters innovation and allows researchers to address complex problems in more holistic and creative ways.
